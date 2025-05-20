@@ -7,6 +7,7 @@ build/
 !**/src/test/**/build/
 
 ### ejnine ###
+logs/
 src/main/resources/.env
 app/src/main/resources/.env
 ### MacOs ###
